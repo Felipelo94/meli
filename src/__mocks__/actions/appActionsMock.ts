@@ -1,0 +1,1 @@
+export const getProductResults = jest.fn()
